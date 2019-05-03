@@ -4,7 +4,7 @@ An active learning framework, using interchangeable algorithms and sample select
 This code is part of an article published on towards data science.
         https://towardsdatascience.com/active-learning-tutorial-57c3398e34d
 
-# For referencing please use:
+# If you are using this code please reference the following:
     @misc{cohen2018activelearningtutorial,
       title={Active Learning Tutorial},
       author={Cohen, Ori},
